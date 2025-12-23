@@ -5,9 +5,7 @@ A real-time control system that uses computer vision to balance a ball on a 3-DO
 <a href="https://youtube.com/shorts/gjLFBipaO6I?feature=share">
    <img alt="View " title="See it in Action!" src="https://custom-icon-badges.demolab.com/badge/-Video Demo-blue?style=for-the-badge&logo=browser&logoColor=white"/></a> 
 
-<p align="center">
 <img width="650" height="600" alt="image" src="https://github.com/user-attachments/assets/3d104806-19c8-4d84-9484-973e87339cb6" />
-</p>
 
 
 ## 🛠️ Tech Stack
