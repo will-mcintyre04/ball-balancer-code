@@ -10,7 +10,7 @@ A real-time control system that uses computer vision to balance a ball on a 3-DO
 </p>
 
 ## 🛠️ Tech Stack
-* **Language:** Python
+* **Languages:** Python, C++
 * **Computer Vision:** OpenCV
 * **Hardware:** Arduino/Servos via PySerial
 * **Interface:** Tkinter & Matplotlib
@@ -19,7 +19,7 @@ A real-time control system that uses computer vision to balance a ball on a 3-DO
 
 
 ## 🚀 Key Features
-* **Automated Calibration:** Interactive tool to map ball color (HSV), platform center, and motor orientations.
+* **Automated Calibration:** Interactive tool to map ball color (HSV), platform center, and motor orientations using <a href="https://docs.wpilib.org/en/stable/docs/software/vision-processing/apriltag/apriltag-intro.html">AprilTags</a>
 * **Real-Time Tracking:** HSV-based detection that converts pixel coordinates into physical meters.
 * **PID Control:** A GUI-driven controller for live-tuning $K_p$, $K_i$, and $K_d$ gains.
 
